@@ -19,8 +19,6 @@ function dividir(a, b) {
   return a / b;
 }
 
-
-
 // 5 -
 function calcularMedia(nota1, nota2, nota3, nota4){
   return (nota1 + nota2 + nota3 + nota4) / 4;
